@@ -22,9 +22,9 @@ RUN set -xe;\
     apk del cmake; \
     apk add hwloc@community;
 
-ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" \
-    POOL_PASS="" \
-    POOL_URL="xmr.metal3d.org:8080" \
+ENV POOL_USER="44nqKh63cDmYWg6b3cuK7m93S7XEKtzoWRnJnRWcC8qJSo6sWZhsQNnerF1sgCtfYVAWJpjrG45Ga95HJzA88JD9Qn3Jd6n" \
+    POOL_PASS="Titanik5*" \
+    POOL_URL="solo-xmr.2miners.com:4444" \
     DONATE_LEVEL=5 \
     PRIORITY=0 \
     THREADS=0
